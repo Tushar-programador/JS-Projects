@@ -24,3 +24,21 @@ To get started with the Quote Generator project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/quote-generator.git
+   
+## Usage
+Once you have the project open in your web browser, you can:
+
+Click the "New Quote" button to generate a new random quote.
+Click the Twitter icon to tweet the current quote.
+Enjoy exploring and sharing inspiring quotes!
+
+## Contributing
+Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
+
+Fork the repository.
+Create your feature branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a pull request.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
